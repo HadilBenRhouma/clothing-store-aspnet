@@ -1,6 +1,6 @@
 # Online Clothing Store — ASP.NET Core MVC 🛍️
 
-School project (ENIS, 2023): an e-commerce web application with a product catalogue, shopping cart, orders and an admin back office, built with ASP.NET Core MVC and Entity Framework Core.
+Team school project (ENIS, 2023) with [Chaima Maalej](https://github.com/chaimamaalej): an e-commerce web application with a product catalogue, shopping cart, orders and an admin back office, built with ASP.NET Core MVC and Entity Framework Core.
 
 ![.NET 7](https://img.shields.io/badge/.NET%207-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
